@@ -1,6 +1,7 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
   <a href="https://portfolio-psi-blush-26.vercel.app‎/" target="_blank">CHILAN PORTFOLIO</a>
+<img width="919" alt="image" src="https://github.com/user-attachments/assets/2abc486b-30b2-4005-b487-9053329cfc91">
 
 <br/>
 
