@@ -27,7 +27,7 @@
 
 ## Built With
 
-My personal portfolio <a href="https://0sand1s-code.vercel.app/" target="_blank">chilan.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="Https://portfolio-psi-blush-26.vercel.app/" target="_blank">chilan.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
